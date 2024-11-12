@@ -10,3 +10,8 @@
 
 - link dokumentasi aspose-cells-cloud-php : https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
 - link harga : https://purchase.aspose.com/pricing/cells/family/#site
+
+# opsi lain untuk encrypt password excel, namun belum di coba
+1. menggunakan ZIP
+2. menggunakan COM VBA di windows
+3. menggunakan akun google spreadsheet
