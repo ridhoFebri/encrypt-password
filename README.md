@@ -1,5 +1,5 @@
 # How to used
-1. clone repo
+1. clone repo ( note: gunakan php >= v.7.4 )
 2. login ke situs https://dashboard.aspose.cloud/ untuk mendapatkan api key
 3. masukkan api key ke file index.php pada coding dibawah ini
 ![image](https://github.com/user-attachments/assets/67f493ea-aa0d-455e-8cdc-7222c393a204)
