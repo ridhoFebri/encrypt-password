@@ -9,3 +9,4 @@
 6. selesai
 
 - link dokumentasi aspose-cells-cloud-php : https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
+- link harga : https://purchase.aspose.com/pricing/cells/family/#site
